@@ -1,0 +1,16 @@
+# Core dependencies
+pytest==8.4.1
+selenium==4.23.1
+requests==2.32.3
+beautifulsoup4==4.12.3
+lxml==5.3.0
+
+# Database handling
+sqlite-utils==3.37
+
+# Data handling
+pandas==2.2.2
+
+# Optional (useful for automation & debugging)
+pytest-html==4.1.1
+pytest-xdist==3.6.1
