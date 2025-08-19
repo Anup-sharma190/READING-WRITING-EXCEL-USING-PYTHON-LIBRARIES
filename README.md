@@ -18,3 +18,6 @@ It is part of my IT/QA Automation learning journey, where I build real-world scr
 - [x] Automate form filling / button clicks  
 - [x] Read & write Excel files using Python  
 - [x] Database handling with SQLite (if project
+![Python](https://img.shields.io/badge/Python-3.x-blue)
+![Pytest](https://img.shields.io/badge/Tested%20with-Pytest-green)
+![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
