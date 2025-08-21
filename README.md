@@ -1,4 +1,11 @@
 # READING-WRITING-EXCEL-USING-PYTHON-LIBRARIES
+# Pytest Project 🚀
+
+[![CI](https://github.com/Anup-sharma190/pytest-project/actions/workflows/ci.yml/badge.svg)](https://github.com/Anup-sharma190/pytest-project/actions/workflows/ci.yml)
+[![codecov](https://codecov.io/gh/Anup-sharma190/pytest-project/branch/main/graph/badge.svg?token=YOUR_TOKEN)](https://codecov.io/gh/Anup-sharma190/pytest-project)
+
+---
+
 PROJECT IS REGARDING HANDLING EXCEL USING PYTHON LIBRARY
 # Project Name 🚀
 
